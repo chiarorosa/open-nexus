@@ -1,4 +1,4 @@
-# 🧠 Open Nexus
+# open-nexus
 
 <div align="center">
 
