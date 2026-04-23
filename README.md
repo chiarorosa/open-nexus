@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/chiarorosa/open-nexus/main/docs/pet.png" alt="Nexus Mascot" width="160"/>
+
 ![Open Nexus Banner](https://img.shields.io/badge/Open%20Nexus-Intelligent%20Desktop%20Assistant-6C63FF?style=for-the-badge&logo=openai&logoColor=white)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
