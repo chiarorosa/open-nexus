@@ -14,6 +14,12 @@
 
 [✨ Features](#-purpose) · [🛠 Tech Stack](#-technology-stack) · [🤝 Contributing](#-contributing) · [📄 License](#-license)
 
+---
+
+### 🖥️ UI Preview
+
+![Open Nexus UI Preview](docs/preview_ptbr.png)
+
 </div>
 
 ---
