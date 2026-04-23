@@ -116,7 +116,6 @@ open-nexus/
 │   │   ├── router.rs       # Internal command routing
 │   │   └── lib.rs          # App setup and plugin registration
 │   └── tauri.conf.json     # App configuration
-├── codex-skills/           # Skill definitions and registry
 ├── docs/                   # Project documentation
 └── public/                 # Static assets
 ```
@@ -200,7 +199,7 @@ main  ←── Pull Requests  ←── feature/your-feature
 
 Skills are the heart of Open Nexus. A skill is a composable module that the assistant can invoke dynamically. To create one:
 
-1. Create a new file in `codex-skills/` following the existing skill structure
+1. Create a new skill file following the existing skill structure in `src/services/`
 2. Register it in the `SkillRegistry` service
 3. Add a brief description so the planner can invoke it intelligently
 4. Open a PR with the prefix `skill/` in the branch name
