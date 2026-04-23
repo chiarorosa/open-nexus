@@ -18,7 +18,7 @@
 
 ### 🖥️ UI Preview
 
-![Open Nexus UI Preview](docs/preview_ptbr.png)
+![Open Nexus UI Preview](https://raw.githubusercontent.com/chiarorosa/open-nexus/main/docs/preview_ptbr.png)
 
 </div>
 
